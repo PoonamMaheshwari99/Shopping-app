@@ -1,0 +1,13 @@
+.Login {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.inputField {
+  width: 500px !important;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 30px;
+
+  text-align: center;
+}

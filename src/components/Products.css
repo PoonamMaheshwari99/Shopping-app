@@ -1,0 +1,30 @@
+.Cards {
+  width: 25rem;
+
+  margin: 15px auto 20px auto;
+}
+
+.CardImg {
+  height: 20rem;
+}
+
+.CardTitle {
+  height: 6rem;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.Desc {
+  overflow: scroll;
+  height: 10rem;
+}
+.SetCount {
+  display: flex;
+  margin: auto;
+  font-size: 25px;
+}
+
+.btn-delete {
+  margin-left: 20px;
+}

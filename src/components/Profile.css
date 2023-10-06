@@ -1,0 +1,40 @@
+.Profile {
+  padding-top: 80px;
+}
+.ProfileCard {
+  margin: auto;
+  height: 500px !important;
+  width: 1000px !important;
+  box-shadow: 40px !important;
+  border-radius: 10px !important;
+}
+
+.ProfileCardTitle {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  margin-left: 20px;
+  height: 110px;
+  font-size: 60px !important;
+  margin-top: 10px !important;
+}
+
+.ProfileCardTitle svg {
+  font-size: 70px;
+  margin-bottom: 10px;
+}
+
+.ProfileCardList {
+  font-size: 30px !important;
+}
+.profileName {
+  height: 80px;
+  margin-top: 20px;
+}
+.profileAge {
+  height: 80px;
+  margin-top: 20px;
+}
+.profileMobile {
+  height: 80px;
+  margin-top: 20px;
+}

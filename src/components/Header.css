@@ -1,0 +1,41 @@
+.header {
+  display: grid;
+  grid-template-columns: 1200px auto;
+  height: 75px;
+  align-items: center;
+  border-bottom: 1px solid whitesmoke;
+  padding: 10px;
+  background-color: rgb(27, 18, 61);
+}
+.header .header-left {
+  display: flex;
+  color: whitesmoke;
+}
+.header .header-left h2 {
+  margin-top: 5px;
+}
+.header .header-left img {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.header svg {
+  color: whitesmoke;
+}
+
+.header .header-right ul {
+  color: whitesmoke;
+  display: flex;
+  list-style: none;
+}
+.header .header-right ul li {
+  margin: 0 0.7rem;
+}
+.header .header-right ul li a {
+  font-weight: bold;
+  color: whitesmoke;
+  text-decoration: none;
+  margin-left: 0px;
+}
+.header .header-right ul li a:hover {
+  color: #c291e2;
+}
